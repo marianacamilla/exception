@@ -1,0 +1,4 @@
+# exception
+
+
+Tratamento de exceções.
